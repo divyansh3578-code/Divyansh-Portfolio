@@ -64,9 +64,9 @@ export const EXP = [
   },
   {
     t: "Senior Coordinator",
-    o: "TantraFiesta, IIIT Nagpur",
+    o: "Training and Placement Cell, IIIT Nagpur",
     d: "2026",
-    p: "Coordinating technical outreach and industry engagement for the institute's technical festival."
+    p: "Coordinating technical outreach and industry engagement for the institute's placements stats , managing campus drives and interviews."
   }
 ];
 

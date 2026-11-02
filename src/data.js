@@ -87,7 +87,7 @@ export const PROJECTS = [
     p: "An AI-powered compliance and bid verification system designed to automate document analysis and identify inconsistencies in government tenders.",
     tags: "Python, OCR, LLMs, FAISS, React",
     live: "",
-    gh: "#"
+    gh: "https://github.com/divyansh3578-code/PramaanAI"
   },
   {
     n: "LiveLens",
@@ -96,7 +96,7 @@ export const PROJECTS = [
     p: "An AI assistant integrating Gemini with live APIs to retrieve real-time information through tool calling.",
     tags: "Node.js, Gemini API, Express, REST APIs",
     live: "",
-    gh: "#"
+    gh: "https://github.com/divyansh3578-code/LiveLens/"
   },
   {
     n: "CryptoScope",
@@ -105,7 +105,7 @@ export const PROJECTS = [
     p: "A cryptocurrency-focused web application built to explore market information through an interactive interface.",
     tags: "React, JavaScript, APIs",
     live: "",
-    gh: "#"
+    gh: "https://github.com/divyansh3578-code/CryptoScope"
   }
 ];
 

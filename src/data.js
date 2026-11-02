@@ -27,25 +27,25 @@ export const EDU = [
     d: "2025 - Present",
     t: "Indian Institute of Information Technology, Nagpur",
     p: "Pursuing B.Tech in Computer Science and Engineering. Exploring software development, DSA and backend technologies.",
-    i: "🎓"
+    
   },
   {
     d: "2023 - 2025",
     t: "Higher Secondary Education",
     p: "Completed ISC Class XII with 94.5%.",
-    i: "📚"
+   
   },
   {
     d: "2021 - 2023",
     t: "Secondary Education",
     p: "Completed ICSE Class X with 95%.",
-    i: "🏫"
+    
   },
   {
     d: "2026",
     t: "Open Source Contributor",
     p: "Contributing to open-source projects through GirlScript Summer of Code and community repositories.",
-    i: "🚀"
+   
   }
 ];
 

@@ -107,7 +107,7 @@ const send = async (e) => {
           <h1 aria-label={ME.name}>{[...ME.name].map((c, i) => <span className="ch" aria-hidden="true" key={i} style={{ animationDelay: `${T + .1 + i * .04}s` }}>{c === " " ? "\u00a0" : c}</span>)}</h1>
           <div className="role hero-in" style={{ "--i": 4 }} aria-live="polite">I build <b>{ROLES[ri]}</b></div>
           <p className="lead hero-in" style={{ "--i": 5 }}>{ME.lead}</p>
-          <div className="btns hero-in" style={{ "--i": 6 }}><a className="btn p" href="#projects">See my projects</a><a className="btn" href="#contact">Get in touch</a><button className="btn" onClick={() => dlg.current.showModal()}>View resume</button></div>
+          <div className="btns hero-in" style={{ "--i": 6 }}><a className="btn p" href="#projects">See my projects</a><a className="btn" href="#contact">Get in touch</a></div>
           <div className="stats hero-in" style={{ "--i": 7 }}>{STATS.map((s) => <div key={s.l}><Count to={s.n} suffix={s.s} delay={T + .9} /><span>{s.l}</span></div>)}</div>
         </div></div>
 
